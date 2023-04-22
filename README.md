@@ -23,7 +23,7 @@ The project uses modern web technologies, such as HTML5, CSS3, JavaScript, React
 
 To install this website on your local machine, follow these steps:
 
-1. Clone this repository to your local machine using `git clone `https://github.com/ImperialX1104/Travelqila.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/ImperialX1104/Travelqila.git`.
 2. Navigate to the project directory using `cd Travelqila`.
 3. Install the dependencies using `npm install`.
 4. Start the development server using `npm start`.
